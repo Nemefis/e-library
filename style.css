@@ -1,0 +1,12 @@
+.logo {
+    width: 150px;
+}
+.flex-end {
+    justify-content: flex-end;
+}
+.carousel-item img {
+    height: 496px;
+}
+.carousel-caption h2 {
+    font-weight: bold;
+}
