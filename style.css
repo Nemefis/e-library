@@ -49,3 +49,15 @@ iframe {
 .maps iframe {
     padding: 0;
 }
+
+.footer {
+    background: #818181;
+}
+.footer ul {
+    padding: 0;
+    list-style: none;
+}
+.footer a, .footer p, .footer h4 {
+    color: #fff;
+    text-decoration: none;
+}
