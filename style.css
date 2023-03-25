@@ -36,3 +36,16 @@ h3 {
     font-size: 23px;
     margin-top: 10px;
 }
+.books-img img {
+    width: 100%;
+}
+iframe {
+    padding: 0;
+}
+
+.maps {
+    margin: 0;
+}
+.maps iframe {
+    padding: 0;
+}
