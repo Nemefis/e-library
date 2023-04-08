@@ -94,3 +94,31 @@ ul {
 .orange {
     color: orange;
 }
+
+.btn {
+    border: 2px solid #847368;
+    padding: 15px 50px;
+    border-radius: 15px;
+    font-size: 21px;
+    text-decoration: none;
+    color: #4c4c4c;
+}
+.btn:hover {
+    border-color: #e6e6e6;
+}
+.button .col {
+    text-align: center;
+}
+.authors img {
+    border-radius: 55px;
+    width: 110px;
+}
+.authors span {
+    color: #696969;
+}
+.authors h3 {
+    font-size: 27px;
+}
+.authors .box-shadow {
+    padding: 30px;
+}
