@@ -122,3 +122,17 @@ ul {
 .authors .box-shadow {
     padding: 30px;
 }
+.banner {
+    background-image: url(img/banner2.png);
+    padding: 200px 0 50px 50px;
+    color: #fff;
+    margin: 50px 0;
+}
+.books img {
+    width: 100%;
+    border-radius: 0;
+}
+.books p {
+    color: #6f6f6f;
+    font-size: 14px;
+}
